@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "862200694729",
+    "project_id": "uber-7fd21",
+    "storage_bucket": "uber-7fd21.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:862200694729:android:d915eb1de87e1d9eefca18",
+        "android_client_info": {
+          "package_name": "com.joaootavio.android.cloneuber"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "862200694729-tb08sh1r603uqpuaogfrtmjq9m14jt9i.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.joaootavio.android.cloneuber",
+            "certificate_hash": "acc55c6e78b145f9bc1df8230d96009d3eb16ad8"
+          }
+        },
+        {
+          "client_id": "862200694729-2nusfkh6cudhc3menugbhv3diah2qi12.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAHm52gQ3M9gnS4r-VHwQNMRSuiA8IGf4w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "862200694729-2nusfkh6cudhc3menugbhv3diah2qi12.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
